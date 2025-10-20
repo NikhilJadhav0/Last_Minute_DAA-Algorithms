@@ -35,9 +35,10 @@
 
 
 ## Key Characteristics of Algorithms
-   _> [!NOTE]
-   _ **Input**: It must have zero or more well-defined inputs.
-   _ **Output**: It must have one or more well-defined outputs.
-   _**Finiteness**: It must terminate after a finite number of steps.
-   _**Definiteness**: Each steps must be clear and unambiguous, leaving no room for ambiguity or error.
-   _**Effectiveness**: Every instruction must be basic enough that it can be carried out, in principle, by a person using only a pen and paper.
+
+* **Input:** It must have zero or more well-defined inputs.
+* **Output:** It must have one or more well-defined outputs.
+* **Finiteness:** It must terminate after a finite number of steps.
+* **Definiteness:** Each step must be clear and unambiguous, leaving no room for interpretation.
+* **Effectiveness:** Every instruction must be basic enough that it can, in principle, be carried out by a person using only a pen and paper.
+
