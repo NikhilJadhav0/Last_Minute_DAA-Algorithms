@@ -42,3 +42,9 @@
 * **Definiteness:** Each step must be clear and unambiguous, leaving no room for interpretation.
 * **Effectiveness:** Every instruction must be basic enough that it can, in principle, be carried out by a person using only a pen and paper.
 
+
+### We primarily measure two things:
+  
+   #### Time Complexity: How fast does it run?
+   #### Space Complexity: How much memory does it use?
+
